@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="empty_title">Nothing here...</string>
+    <string name="empty_subtitle">Start writing!</string>
+    <string name="insert_dummy_data">Add some boring data</string>
+    <string name="delete_all_entries">Delete all notes</string>
+    <string name="title">Title:</string>
+    <string name="subtitle">Subtitle:</string>
+    <string name="weather">Weather</string>
+    <string name="note">Note:</string>
+    <string name="note_hint">Capture your amazing time here...</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="weather_sunny">Sunshine</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_windy">Windy</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="error_saving">Saving error</string>
+    <string name="success_saved">Saved</string>
+    <string name="error_updating">Update error</string>
+    <string name="success_updated">Updated</string>
+    <string name="discard_edit_question">Exit without save?</string>
+    <string name="discard">Exit</string>
+    <string name="keep_editing">Cancel</string>
+    <string name="delete_question">Delete this note?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_delete">Cancel error</string>
+    <string name="success_delete">Cancelled</string>
+</resources>

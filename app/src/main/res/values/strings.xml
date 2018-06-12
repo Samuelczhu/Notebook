@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">记事本</string>
+
+    <string name="empty_title">啥也没有...</string>
+    <string name="empty_subtitle">开始写吧！</string>
+
+    <string name="insert_dummy_data">添加无聊数据</string>
+    <string name="delete_all_entries">删除所有笔记</string>
+
+    <string name="title">标题：</string>
+    <string name="subtitle">简介：</string>
+
+    <string name="weather">天气</string>
+
+    <string name="note">笔记：</string>
+
+    <string name="note_hint">在此记录精彩时刻...</string>
+
+    <string name="action_save">保存</string>
+    <string name="action_delete">删除</string>
+
+    <string name="add_note">添加笔记</string>
+    <string name="edit_note">编辑笔记</string>
+
+    <string name="weather_sunny">晴天</string>
+    <string name="weather_cloudy">阴天</string>
+    <string name="weather_rainy">雨天</string>
+    <string name="weather_windy">大风</string>
+    <string name="weather_snowy">下雪</string>
+
+    <string name="error_saving">保存失败</string>
+    <string name="success_saved">以保存</string>
+
+    <string name="error_updating">更新失败</string>
+    <string name="success_updated">已更新</string>
+
+    <string name="discard_edit_question">放弃此次编辑？</string>
+    <string name="discard">放弃编辑</string>
+    <string name="keep_editing">继续编辑</string>
+
+    <string name="delete_question">确定删除此笔记？</string>
+    <string name="delete">删除</string>
+    <string name="cancel">返回</string>
+
+    <string name="error_delete">删除失败</string>
+    <string name="success_delete">删除成功</string>
+</resources>
