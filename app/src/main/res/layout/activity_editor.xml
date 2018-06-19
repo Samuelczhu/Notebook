@@ -86,15 +86,21 @@
         android:gravity="left"
         android:paddingLeft="24dp"/>
 
-    <EditText
-        android:id="@+id/message_input"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:textSize="20sp"
-        android:hint="@string/note_hint"
-        android:inputType="textMultiLine"
-        android:gravity="top"
-        android:padding="8dp"
-        android:layout_margin="8dp"/>
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/message_input"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:hint="@string/note_hint"
+            android:inputType="textMultiLine"
+            android:gravity="top"
+            android:padding="8dp"
+            android:layout_margin="8dp"/>
+
+    </ScrollView>
 
 </LinearLayout>
